@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<ul>
+  <li>
+    <img src="https://github.com/EQUIPOO10/EQUIPOO10.github.io/blob/main/EQUIPO10/AARON.jpeg?raw=true" alt="Imagen AARON" width="300" height="200">
+  </li>
+  <li>
+    <img src="https://github.com/EQUIPOO10/EQUIPOO10.github.io/blob/main/EQUIPO10/JUAN.jpeg?raw=true" alt="Imagen JUAN" width="300" height="200">
+  </li>
+  <li>
+    <img src="https://github.com/EQUIPOO10/EQUIPOO10.github.io/blob/main/EQUIPO10/RUSEL.jpeg?raw=true" alt="Imagen RUSEL" width="300" height="200">
+  </li>
+ <li>
+    <img src="https://github.com/EQUIPOO10/EQUIPOO10.github.io/blob/main/EQUIPO10/SAID.jpeg?raw=true" alt="Imagen SAID" width="300" height="200">
+  </li>
+</ul>
